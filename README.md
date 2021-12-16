@@ -1,0 +1,2 @@
+# frontendpatika
+FrontEnd Patika Ödevleri
